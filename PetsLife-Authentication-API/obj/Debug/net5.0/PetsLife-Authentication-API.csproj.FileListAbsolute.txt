@@ -75,3 +75,5 @@ C:\Users\Nuzzo\Desktop\PetsLife-UNAJ\PetsLife-Authentication\PetsLife-Authentica
 C:\Users\Nuzzo\Desktop\PetsLife-UNAJ\PetsLife-Authentication\PetsLife-Authentication-API\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Nuzzo\Desktop\PetsLife-UNAJ\PetsLife-Authentication\PetsLife-Authentication-API\bin\Debug\net5.0\Application.dll
 C:\Users\Nuzzo\Desktop\PetsLife-UNAJ\PetsLife-Authentication\PetsLife-Authentication-API\bin\Debug\net5.0\Application.pdb
+C:\Users\Nuzzo\Desktop\PetsLife-UNAJ\PetsLife-Authentication\PetsLife-Authentication-API\bin\Debug\net5.0\Dapper.dll
+C:\Users\Nuzzo\Desktop\PetsLife-UNAJ\PetsLife-Authentication\PetsLife-Authentication-API\bin\Debug\net5.0\SqlKata.Execution.dll

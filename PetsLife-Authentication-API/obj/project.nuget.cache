@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uA1AAxJwOYbODrh/zZDBzOyIld3l6brYkMdTI9aZcbZUxeEMFF/M+5UUBV1l1Gyj26EdzndDAIcqovaxbdDPnA==",
+  "dgSpecHash": "us+nVGkEKiLYY9plYkrhi/NgsKnUuBJHDblHX274TqPoFj4RLsbhR25SK4nW67XKSbp4ZqWuX4ckRhdeffchPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nuzzo\\Desktop\\PetsLife-UNAJ\\PetsLife-Authentication\\PetsLife-Authentication-API\\PetsLife-Authentication-API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Nuzzo\\.nuget\\packages\\dapper\\1.50.5\\dapper.1.50.5.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.7\\microsoft.aspnetcore.authentication.jwtbearer.5.0.7.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -63,6 +64,7 @@
     "C:\\Users\\Nuzzo\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\sqlkata\\2.3.7\\sqlkata.2.3.7.nupkg.sha512",
+    "C:\\Users\\Nuzzo\\.nuget\\packages\\sqlkata.execution\\2.3.7\\sqlkata.execution.2.3.7.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
@@ -110,7 +112,7 @@
     "C:\\Users\\Nuzzo\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\Nuzzo\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nuzzo\\.nuget\\packages\\system.reflection.typeextensions\\4.4.0\\system.reflection.typeextensions.4.4.0.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Nuzzo\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",

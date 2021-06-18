@@ -61,6 +61,10 @@
             "SqlKata": {
               "target": "Package",
               "version": "[2.3.7, )"
+            },
+            "SqlKata.Execution": {
+              "target": "Package",
+              "version": "[2.3.7, )"
             }
           },
           "imports": [
