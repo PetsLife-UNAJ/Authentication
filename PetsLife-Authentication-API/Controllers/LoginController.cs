@@ -20,7 +20,7 @@ namespace PetsLife_Authentication_API.Controllers
         {
             try
             {
-                return new JsonResult(_service.Login(userInfo)) { StatusCode = 201 };
+                return new JsonResult(_service.Login(userInfo)) { StatusCode = 200 };
             }
             catch (Exception e)
             {
