@@ -31,7 +31,6 @@ namespace PetsLife_Authentication_API.Controllers
 
     [ApiController]
     [Route("api/register/veterinario")]
-    //[Authorize]
     public class RegisterProfesionalController : ControllerBase
     {
         private readonly IAutenticationService _service;
@@ -56,7 +55,6 @@ namespace PetsLife_Authentication_API.Controllers
 
     [ApiController]
     [Route("api/register/administrador")]
-    //[Authorize]
     public class RegisterAdministradorController : ControllerBase
     {
         private readonly IAutenticationService _service;
