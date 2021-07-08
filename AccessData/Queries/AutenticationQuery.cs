@@ -20,7 +20,7 @@ namespace AccessData.Queries
         {
             var db = new QueryFactory(connection, sqlKataCompiler);
 
-            var query = db.Query("Usuarios")
+            var query = db.Query("Usuario")
                 .Where("Email", "=", email);
 
             return query.FirstOrDefault<Usuario>();

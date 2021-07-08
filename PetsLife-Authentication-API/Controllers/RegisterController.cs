@@ -7,10 +7,10 @@ namespace PetsLife_Authentication_API.Controllers
 {
     [ApiController]
     [Route("api/register")]
-    public class RegisterPacienteController : ControllerBase
+    public class RegisterClienteController : ControllerBase
     {
         private readonly IAutenticationService _service;
-        public RegisterPacienteController(IAutenticationService service)
+        public RegisterClienteController(IAutenticationService service)
         {
             _service = service;
         }

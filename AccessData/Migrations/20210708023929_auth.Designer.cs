@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AccessData.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20210618222151_auth")]
+    [Migration("20210708023929_auth")]
     partial class auth
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -32,7 +32,7 @@ namespace AccessData.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Roles");
+                    b.ToTable("Rol");
 
                     b.HasData(
                         new
@@ -87,7 +87,45 @@ namespace AccessData.Migrations
 
                     b.HasIndex("RolId");
 
-                    b.ToTable("Usuarios");
+                    b.ToTable("Usuario");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Apellidos = "apellidoAdmin",
+                            DNI = "42132132",
+                            Email = "admin@gmail.com",
+                            Nombres = "nombreAdmin",
+                            Password = "33354741122871651676713774147412831195",
+                            RolId = 1,
+                            Sexo = "M",
+                            Telefono = "42573232"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Apellidos = "apellidoVeterinario",
+                            DNI = "42142796",
+                            Email = "veterinario@gmail.com",
+                            Nombres = "nombreVeterinario",
+                            Password = "2531186424245626725028323047721799563",
+                            RolId = 2,
+                            Sexo = "F",
+                            Telefono = "42546354"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Apellidos = "apellidoCliente",
+                            DNI = "36235638",
+                            Email = "cliente@gmail.com",
+                            Nombres = "nombreCliente",
+                            Password = "7313116017113123713422423133601351311481147",
+                            RolId = 3,
+                            Sexo = "M",
+                            Telefono = "42543532"
+                        });
                 });
 
             modelBuilder.Entity("Domain.Entities.Usuario", b =>

@@ -30,7 +30,7 @@ namespace AccessData
                 Apellidos = "apellidoAdmin",
                 DNI = "42132132",
                 Email = "admin@gmail.com",
-                Password = "admin",
+                Password = "33354741122871651676713774147412831195",//password=admin
                 RolId = 1,
                 Sexo = "M",
                 Telefono = "42573232"
@@ -41,7 +41,7 @@ namespace AccessData
                 Apellidos = "apellidoVeterinario",
                 DNI = "42142796",
                 Email = "veterinario@gmail.com",
-                Password = "veterinario",
+                Password = "2531186424245626725028323047721799563",//password=veterinario
                 RolId = 2,
                 Sexo = "F",
                 Telefono = "42546354"
@@ -52,7 +52,7 @@ namespace AccessData
                 Apellidos = "apellidoCliente",
                 DNI = "36235638",
                 Email = "cliente@gmail.com",
-                Password = "cliente",
+                Password = "7313116017113123713422423133601351311481147",//password=cliente
                 RolId = 3,
                 Sexo = "M",
                 Telefono = "42543532"
